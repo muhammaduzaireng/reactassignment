@@ -101,7 +101,7 @@ function EarningsSidebar({ onClose }) {
       </nav>
 
       {/* White Contact Section */}
-      <div className="lg:hidden flex-1 bg-white border-t border-[#0000001F] p-4 overflow-y-auto">
+      <div className=" flex bg-white border-t border-[#0000001F] p-4 overflow-y-auto">
         <div className="mb-3">
           <h3 className="text-[12px] font-[500] text-[#6b7280] uppercase tracking-wider mb-2">
             TALENT MANAGER
