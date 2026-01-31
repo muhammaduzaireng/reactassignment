@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactassignment/static/css/main.18053ba7.css",
+    "main.js": "/reactassignment/static/js/main.b2b90515.js",
+    "static/js/453.dd4f0c1b.chunk.js": "/reactassignment/static/js/453.dd4f0c1b.chunk.js",
+    "static/media/avater.png": "/reactassignment/static/media/avater.f1bb4878359a17421ace.png",
+    "index.html": "/reactassignment/index.html",
+    "main.18053ba7.css.map": "/reactassignment/static/css/main.18053ba7.css.map",
+    "main.b2b90515.js.map": "/reactassignment/static/js/main.b2b90515.js.map",
+    "453.dd4f0c1b.chunk.js.map": "/reactassignment/static/js/453.dd4f0c1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18053ba7.css",
+    "static/js/main.b2b90515.js"
+  ]
+}
